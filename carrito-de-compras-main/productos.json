@@ -1,0 +1,98 @@
+[
+  {
+    "producto": "Renaul Sandero 2015",
+    "valor": 47500000,
+    "tipo": "automoviles",
+    "img": "img/automovil1.jpg"
+  },
+  {
+    "producto": "Renault Logan 2012 ",
+    "valor": 32000000,
+    "tipo": "automoviles",
+    "img": "img/automovil2.jpg"
+  },
+  {
+    "producto": "Nissan Versa 2022",
+    "valor": 76900000,
+    "tipo": "automoviles",
+    "img": "img/automovil3.jpg"
+  },
+  {
+    "producto": "Nissan Note Gt 2022",
+    "valor": 112000000,
+    "tipo": "automoviles",
+    "img": "img/automovil4.jpg"
+  },
+  {
+    "producto": "Chevrolet Spark 2017",
+    "valor": 46000000,
+    "tipo": "automoviles",
+    "img": "img/automovil5.jpg"
+  },
+  {
+    "producto": "Tesla Model 3 2022",
+    "valor": 365000000,
+    "tipo": "automoviles",
+    "img": "img/automovil6.jpg"
+  },
+  {
+    "producto": "Mercedes GT 2020",
+    "valor": 565000000,
+    "tipo": "automoviles",
+    "img": "img/automovil7.jpg"
+  },
+  {
+    "producto": "BMW Seie 4 2020",
+    "valor": 169000000,
+    "tipo": "automoviles",
+    "img": "img/automovil8.jpg"
+  },
+  {
+    "producto": "Mercedes G63 AMG 2022",
+    "valor": 1365000000,
+    "tipo": "camionetas",
+    "img": "img/camioneta1.jpg"
+  },
+  {
+    "producto": "BMW X5 2021",
+    "valor": 267800000,
+    "tipo": "camionetas",
+    "img": "img/camioneta2.jpg"
+  },
+  {
+    "producto": "Renault Duster DAkar 2022",
+    "valor": 83000000,
+    "tipo": "camionetas",
+    "img": "img/camioneta3.jpg"
+  },
+  {
+    "producto": "Toyota TX-L 2022",
+    "valor": 320000000,
+    "tipo": "camionetas",
+    "img": "img/camioneta4.jpg"
+  },
+  {
+    "producto": "Harley Davison FB 2021",
+    "valor": 185000000,
+    "tipo": "motos",
+    "img": "img/moto1.jpg"
+  },
+  {
+    "producto": "Ducati R1200 2020",
+    "valor": 125000000,
+    "tipo": "motos",
+    "img": "img/moto2.jpg"
+  },
+  {
+    "producto": "KTM Dakar FT 2022",
+    "valor": 76000000,
+    "tipo": "motos",
+    "img": "img/moto3.jpg"
+  },
+  {
+    "producto": "Yamaha R1 2020",
+    "valor": 145000000,
+    "tipo": "motos",
+    "img": "img/moto4.jpg"
+  }
+]
